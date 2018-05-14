@@ -3,6 +3,8 @@
     <color name="amber500">#ffc107</color>
     <color name="brown400">#8d6e63</color>
     <color name="deepOrangeA700">#dd2200</color>
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
 
     <color name="colorPrimary">@color/amber500</color>
     <color name="colorPrimaryDark">@color/brown400</color>

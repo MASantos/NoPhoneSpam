@@ -20,7 +20,7 @@
     <string name="edit_cancel">Cancelar</string>
     <string name="edit_delete">Eliminar</string>
     <string name="edit_name">Nombre</string>
-    <string name="edit_name_hint">Molesto spammer</string>
+    <string name="edit_name_hint">Spammer molesto</string>
     <string name="edit_number">Número</string>
     <string name="edit_number_hint">+34-123-123456</string>
     <string name="edit_number_hints">Introduce el número en el formato +PREFIJO-NÚMERO. Usa el comodín \"*\" para cero o más dígitos y \"#\" para un solo dígito.</string>
@@ -30,5 +30,8 @@
     <!-- CallReceiver -->
     <string name="receiver_notify_call_rejected">Llamada rechazada</string>
     <string name="receiver_notify_private_number">Número privado</string>
+    <string name="blacklist_import">Importart lista negra</string>
+    <string name="blacklist_export">Exportar lista negra</string>
+    <string name="blacklist_exported_to">"Exportada a "</string>
 
 </resources>

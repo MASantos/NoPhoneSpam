@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NoPhoneSpam</string>
+    <string name="blacklist_block_hidden_numbers">Blocar número ocult</string>
+    <string name="blacklist_show_notifications">Mostrar notificacions</string>
+    <string name="blacklist_about">Sobre NoPhoneSpam</string>
+    <string name="blacklist_permissions_required">NoPhoneSpam manca els permisos necessaris per funcionar</string>
+    <string name="blacklist_request_permissions">Concedir permisos</string>
+    <string name="blacklist_import">Importar llista negra</string>
+    <string name="blacklist_export">Exportar llista negra</string>
+    <string name="blacklist_exported_to">"Exportada a "</string>
+    <string name="edit_add_number">Afegir número</string>
+    <string name="edit_edit_number">Editar número</string>
+    <string name="edit_save">Guardar</string>
+    <string name="edit_cancel">Cancel.lar</string>
+    <string name="edit_delete">Eliminar</string>
+    <string name="edit_name">Nom</string>
+    <string name="edit_name_hint">Spammer molest</string>
+    <string name="edit_number">Número</string>
+    <string name="edit_number_hint">+34-123-123456</string>
+    <string name="edit_number_hints">Introdueix el número en el format +PREFIX-NÚMERO. Usa el comodí \"*\" per cero o més dígits i \"#\" per un sol dígit.</string>
+    <string name="edit_must_not_be_empty">no es pot deixar en blanc</string>
+    <string name="edit_changes_saved">Canvis guardats</string>
+    <string name="receiver_notify_call_rejected">Trucada refusada</string>
+    <string name="receiver_notify_private_number">Número privat</string>
+</resources>

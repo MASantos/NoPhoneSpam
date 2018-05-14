@@ -30,5 +30,8 @@
     <!-- CallReceiver -->
     <string name="receiver_notify_call_rejected">Anruf abgelehnt</string>
     <string name="receiver_notify_private_number">ohne Nummer</string>
+    <string name="blacklist_import">Blacklist importieren</string>
+    <string name="blacklist_export">Blacklist exportieren</string>
+    <string name="blacklist_exported_to">Exportiert auf</string>
 
 </resources>

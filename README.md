@@ -1,5 +1,13 @@
-
 # NoPhoneSpam
+This is a quick&dirty fork of NoPhonSpam. The latter hasn't been updated for over a year (as of May 2018).
+
+Lately I've been agressively spammed from numbers starting with +24899 and +676899 at a rate of 10 calls per day!
+Whence I needed a quick patch. I also wanted it to be something I could customize to my liking, and not too complex
+an app.
+
+MA Santos
+ 
+# NoPhoneSpam (original readme)
 
 Web site: https://gitlab.com/bitfireAT/NoPhoneSpam/
 

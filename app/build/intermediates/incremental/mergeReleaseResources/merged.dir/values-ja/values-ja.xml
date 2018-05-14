@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="blacklist_call_details">
+        <item quantity="one">%2$s に着信</item>
+        <item quantity="other">%1$d 着信。最後: %2$s</item>
+    </plurals>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"ホームへ移動"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s、%2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s、%2$s、%3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"上へ移動"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"その他のオプション"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"完了"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"すべて表示"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"アプリの選択"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"OFF"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"ON"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"検索…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"検索キーワードを削除"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"検索キーワード"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"検索"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"検索キーワードを送信"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"音声検索"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"共有"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"%sと共有"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"折りたたむ"</string>
+    <string name="app_name">NoPhoneSpam</string>
+    <string name="blacklist_about">NoPhoneSpam について</string>
+    <string name="blacklist_block_hidden_numbers">非表示の番号をブロック</string>
+    <string name="blacklist_permissions_required">NoPhoneSpam が動作するためのアクセス許可がありません。</string>
+    <string name="blacklist_request_permissions">アクセス許可を要求</string>
+    <string name="blacklist_show_notifications">通知を表示</string>
+    <string name="edit_add_number">番号を追加</string>
+    <string name="edit_cancel">キャンセル</string>
+    <string name="edit_changes_saved">変更を保存しました</string>
+    <string name="edit_delete">削除</string>
+    <string name="edit_edit_number">番号を編集</string>
+    <string name="edit_must_not_be_empty">空にできません</string>
+    <string name="edit_name">名前</string>
+    <string name="edit_name_hint">迷惑なスパマー</string>
+    <string name="edit_number">番号</string>
+    <string name="edit_number_hint">+1-555-12345</string>
+    <string name="edit_number_hints">番号を +国-番号 の形式で入力してください。 \"*\" を 0 桁以上のワイルドカードとして \"#\" を 1 桁のワイルドカードとして使用することができます。</string>
+    <string name="edit_save">保存</string>
+    <string name="receiver_notify_call_rejected">着信を拒否しました</string>
+    <string name="receiver_notify_private_number">プライベート番号</string>
+    <string msgid="146198913615257606" name="search_menu_title">"検索"</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+</resources>
